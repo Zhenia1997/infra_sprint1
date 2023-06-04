@@ -1,5 +1,5 @@
-IP: 158.160.64.218
-name_taski: https://prodigit.hopto.org
-name_kittygram: https://kitgram.myddns.me
+IP:158.160.64.218;
+name_taski: https://prodigit.hopto.org/;
+name_kittygram: https://kitgram.myddns.me/;
 login: likesunn;
 password: 12345678;
